@@ -1,5 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
-@import './styles/bootstrap.css';
-@import './styles/styles.css';
+ @import 'assets/css/bootstrap.css';
+ @import 'assets/css/styles.css';
 
 

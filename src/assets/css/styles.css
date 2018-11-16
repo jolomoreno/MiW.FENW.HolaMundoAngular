@@ -105,7 +105,7 @@ body {
 }
 
 .img-background {
-  background: url('./img/red.jpg') no-repeat;
+  background: url('../img/red.jpg') no-repeat;
   background-size: cover;
   color:white;
   border:1px solid black;
